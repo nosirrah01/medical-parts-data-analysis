@@ -1,0 +1,151 @@
+OrderID,OrderDate,CustomerID,CustomerName,Region,ProductID,PartName,PartCategory,Manufacturer,Quantity,UnitPrice,ExpectedShippingDays,ShippingDays,RushOrder,Returned
+1026,2026-01-02,C007,Great Lakes Medical Center,Midwest,P004,Infusion Pump Motor,Surgical,Precision Medical,8,310.00,4,5,No,No
+1013,2026-01-04,C011,Heartland Regional Medical,Midwest,P011,Bed Control Module,Patient Support,CareMotion,5,390.00,3,3,No,No
+1025,2026-01-05,C002,Central Ohio Hospital,Midwest,P014,Ventilator Flow Valve,Respiratory,AirMed,4,285.00,3,3,Yes,No
+1078,2026-01-05,C010,Allegheny Health Clinic,Northeast,P004,Infusion Pump Motor,Surgical,Precision Medical,8,310.00,4,4,No,No
+1125,2026-01-06,C003,Riverside Health,South,P004,Infusion Pump Motor,Surgical,Precision Medical,3,310.00,4,7,No,No
+1009,2026-01-10,C006,Metro Health Network,Northeast,P006,ECG Lead Cable,Monitoring,VitalWorks,4,78.00,2,3,No,No
+1038,2026-01-12,C006,Metro Health Network,Northeast,P003,Ventilator Filter,Respiratory,AirMed,9,42.50,2,2,No,No
+1067,2026-01-12,C006,Metro Health Network,Northeast,P008,Oxygen Sensor,Respiratory,AirMed,6,160.00,2,3,Yes,No
+1099,2026-01-13,C006,Metro Health Network,Northeast,P012,Suction Pump Assembly,Surgical,Precision Medical,4,540.00,4,5,No,No
+1057,2026-01-17,C004,Northeast Surgical Center,Northeast,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,14,62.00,2,4,No,No
+1006,2026-01-19,C001,Lakeview Medical Center,Midwest,P010,Defibrillator Battery,Emergency,RescueMed,5,265.00,2,2,No,No
+1031,2026-01-20,C001,Lakeview Medical Center,Midwest,P007,Surgical Light Bulb,Surgical,Precision Medical,20,95.00,3,2,No,No
+1101,2026-01-21,C008,Piedmont Community Hospital,South,P012,Suction Pump Assembly,Surgical,Precision Medical,3,540.00,4,4,No,No
+1080,2026-01-23,C004,Northeast Surgical Center,Northeast,P002,Patient Monitor Battery,Monitoring,VitalWorks,15,125.00,2,4,No,No
+1002,2026-01-24,C010,Allegheny Health Clinic,Northeast,P006,ECG Lead Cable,Monitoring,VitalWorks,2,78.00,2,3,Yes,No
+1070,2026-01-24,C005,Western Regional Hospital,West,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,9,62.00,2,3,No,Yes
+1138,2026-01-25,C012,Sunrise Medical Pavilion,South,P008,Oxygen Sensor,Respiratory,AirMed,7,160.00,2,2,No,No
+1104,2026-01-27,C008,Piedmont Community Hospital,South,P003,Ventilator Filter,Respiratory,AirMed,11,42.50,2,2,No,No
+1034,2026-01-29,C012,Sunrise Medical Pavilion,South,P008,Oxygen Sensor,Respiratory,AirMed,5,160.00,2,2,No,No
+1052,2026-01-29,C007,Great Lakes Medical Center,Midwest,P003,Ventilator Filter,Respiratory,AirMed,18,42.50,2,3,No,No
+1065,2026-01-31,C003,Riverside Health,South,P015,MRI Table Motor,Imaging,ScanPro Healthcare,1,1450.00,6,6,No,No
+1079,2026-01-31,C002,Central Ohio Hospital,Midwest,P006,ECG Lead Cable,Monitoring,VitalWorks,4,78.00,2,2,No,No
+1091,2026-01-31,C007,Great Lakes Medical Center,Midwest,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,2,62.00,2,4,No,No
+1064,2026-02-03,C008,Piedmont Community Hospital,South,P010,Defibrillator Battery,Emergency,RescueMed,4,265.00,2,2,No,No
+1112,2026-02-04,C002,Central Ohio Hospital,Midwest,P014,Ventilator Flow Valve,Respiratory,AirMed,6,285.00,3,3,No,No
+1096,2026-02-05,C002,Central Ohio Hospital,Midwest,P004,Infusion Pump Motor,Surgical,Precision Medical,7,310.00,4,6,No,No
+1118,2026-02-06,C001,Lakeview Medical Center,Midwest,P014,Ventilator Flow Valve,Respiratory,AirMed,5,285.00,3,3,No,No
+1142,2026-02-06,C005,Western Regional Hospital,West,P004,Infusion Pump Motor,Surgical,Precision Medical,2,310.00,4,4,Yes,No
+1085,2026-02-07,C002,Central Ohio Hospital,Midwest,P001,X-Ray Detector,Imaging,MedTech Systems,3,850.00,3,4,No,No
+1124,2026-02-08,C003,Riverside Health,South,P008,Oxygen Sensor,Respiratory,AirMed,3,160.00,2,1,Yes,No
+1037,2026-02-09,C009,Pacific Care Center,West,P001,X-Ray Detector,Imaging,MedTech Systems,3,850.00,3,4,No,No
+1056,2026-02-09,C004,Northeast Surgical Center,Northeast,P006,ECG Lead Cable,Monitoring,VitalWorks,6,78.00,2,1,No,No
+1012,2026-02-11,C011,Heartland Regional Medical,Midwest,P006,ECG Lead Cable,Monitoring,VitalWorks,4,78.00,2,3,No,No
+1008,2026-02-12,C008,Piedmont Community Hospital,South,P006,ECG Lead Cable,Monitoring,VitalWorks,19,78.00,2,2,No,No
+1049,2026-02-14,C011,Heartland Regional Medical,Midwest,P002,Patient Monitor Battery,Monitoring,VitalWorks,18,125.00,2,4,No,No
+1066,2026-02-21,C002,Central Ohio Hospital,Midwest,P009,CT Cooling Fan,Imaging,ScanPro Healthcare,2,475.00,4,4,Yes,No
+1041,2026-02-22,C008,Piedmont Community Hospital,South,P005,Ultrasound Transducer,Imaging,MedTech Systems,1,1200.00,5,5,No,No
+1048,2026-02-24,C007,Great Lakes Medical Center,Midwest,P012,Suction Pump Assembly,Surgical,Precision Medical,5,540.00,4,4,No,No
+1082,2026-02-24,C011,Heartland Regional Medical,Midwest,P003,Ventilator Filter,Respiratory,AirMed,4,42.50,2,3,Yes,No
+1018,2026-02-25,C009,Pacific Care Center,West,P012,Suction Pump Assembly,Surgical,Precision Medical,2,540.00,4,4,No,No
+1027,2026-02-26,C001,Lakeview Medical Center,Midwest,P008,Oxygen Sensor,Respiratory,AirMed,1,160.00,2,2,No,No
+1094,2026-02-28,C002,Central Ohio Hospital,Midwest,P007,Surgical Light Bulb,Surgical,Precision Medical,5,95.00,3,3,No,No
+1075,2026-03-07,C004,Northeast Surgical Center,Northeast,P002,Patient Monitor Battery,Monitoring,VitalWorks,8,125.00,2,3,No,No
+1030,2026-03-09,C004,Northeast Surgical Center,Northeast,P010,Defibrillator Battery,Emergency,RescueMed,6,265.00,2,2,No,No
+1043,2026-03-09,C003,Riverside Health,South,P008,Oxygen Sensor,Respiratory,AirMed,5,160.00,2,3,Yes,No
+1014,2026-03-10,C009,Pacific Care Center,West,P012,Suction Pump Assembly,Surgical,Precision Medical,5,540.00,4,4,No,No
+1035,2026-03-10,C009,Pacific Care Center,West,P007,Surgical Light Bulb,Surgical,Precision Medical,3,95.00,3,4,Yes,No
+1036,2026-03-10,C003,Riverside Health,South,P012,Suction Pump Assembly,Surgical,Precision Medical,5,540.00,4,7,No,No
+1088,2026-03-11,C010,Allegheny Health Clinic,Northeast,P001,X-Ray Detector,Imaging,MedTech Systems,2,850.00,3,3,No,No
+1095,2026-03-12,C007,Great Lakes Medical Center,Midwest,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,17,62.00,2,4,No,No
+1004,2026-03-14,C003,Riverside Health,South,P003,Ventilator Filter,Respiratory,AirMed,12,42.50,2,3,Yes,No
+1042,2026-03-14,C006,Metro Health Network,Northeast,P010,Defibrillator Battery,Emergency,RescueMed,7,265.00,2,4,No,No
+1114,2026-03-18,C012,Sunrise Medical Pavilion,South,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,5,62.00,2,2,No,No
+1046,2026-03-19,C009,Pacific Care Center,West,P005,Ultrasound Transducer,Imaging,MedTech Systems,2,1200.00,5,5,No,No
+1086,2026-03-20,C012,Sunrise Medical Pavilion,South,P006,ECG Lead Cable,Monitoring,VitalWorks,10,78.00,2,2,No,No
+1150,2026-03-20,C005,Western Regional Hospital,West,P009,CT Cooling Fan,Imaging,ScanPro Healthcare,3,475.00,4,5,No,No
+1016,2026-03-21,C004,Northeast Surgical Center,Northeast,P001,X-Ray Detector,Imaging,MedTech Systems,5,850.00,3,2,No,No
+1146,2026-03-22,C012,Sunrise Medical Pavilion,South,P005,Ultrasound Transducer,Imaging,MedTech Systems,2,1200.00,5,4,No,No
+1087,2026-03-25,C010,Allegheny Health Clinic,Northeast,P004,Infusion Pump Motor,Surgical,Precision Medical,2,310.00,4,6,No,No
+1071,2026-03-26,C003,Riverside Health,South,P007,Surgical Light Bulb,Surgical,Precision Medical,13,95.00,3,3,No,No
+1129,2026-03-26,C007,Great Lakes Medical Center,Midwest,P015,MRI Table Motor,Imaging,ScanPro Healthcare,3,1450.00,6,8,No,No
+1040,2026-03-28,C007,Great Lakes Medical Center,Midwest,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,9,62.00,2,3,No,No
+1062,2026-03-29,C007,Great Lakes Medical Center,Midwest,P004,Infusion Pump Motor,Surgical,Precision Medical,7,310.00,4,3,No,No
+1137,2026-03-29,C006,Metro Health Network,Northeast,P001,X-Ray Detector,Imaging,MedTech Systems,2,850.00,3,4,No,No
+1032,2026-04-01,C002,Central Ohio Hospital,Midwest,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,13,62.00,2,2,No,No
+1063,2026-04-01,C004,Northeast Surgical Center,Northeast,P010,Defibrillator Battery,Emergency,RescueMed,1,265.00,2,3,No,No
+1147,2026-04-01,C006,Metro Health Network,Northeast,P011,Bed Control Module,Patient Support,CareMotion,3,390.00,3,3,No,No
+1011,2026-04-04,C004,Northeast Surgical Center,Northeast,P015,MRI Table Motor,Imaging,ScanPro Healthcare,1,1450.00,6,5,No,No
+1068,2026-04-04,C011,Heartland Regional Medical,Midwest,P014,Ventilator Flow Valve,Respiratory,AirMed,8,285.00,3,3,No,No
+1126,2026-04-04,C009,Pacific Care Center,West,P009,CT Cooling Fan,Imaging,ScanPro Healthcare,4,475.00,4,6,No,No
+1007,2026-04-05,C003,Riverside Health,South,P006,ECG Lead Cable,Monitoring,VitalWorks,8,78.00,2,1,No,No
+1113,2026-04-05,C009,Pacific Care Center,West,P007,Surgical Light Bulb,Surgical,Precision Medical,10,95.00,3,3,No,No
+1015,2026-04-07,C003,Riverside Health,South,P008,Oxygen Sensor,Respiratory,AirMed,1,160.00,2,3,No,No
+1047,2026-04-09,C011,Heartland Regional Medical,Midwest,P012,Suction Pump Assembly,Surgical,Precision Medical,2,540.00,4,4,No,No
+1010,2026-04-13,C011,Heartland Regional Medical,Midwest,P007,Surgical Light Bulb,Surgical,Precision Medical,10,95.00,3,4,Yes,No
+1023,2026-04-15,C012,Sunrise Medical Pavilion,South,P005,Ultrasound Transducer,Imaging,MedTech Systems,1,1200.00,5,5,No,No
+1060,2026-04-15,C012,Sunrise Medical Pavilion,South,P003,Ventilator Filter,Respiratory,AirMed,16,42.50,2,3,No,No
+1090,2026-04-17,C012,Sunrise Medical Pavilion,South,P007,Surgical Light Bulb,Surgical,Precision Medical,14,95.00,3,6,No,No
+1051,2026-04-18,C011,Heartland Regional Medical,Midwest,P008,Oxygen Sensor,Respiratory,AirMed,7,160.00,2,2,No,No
+1022,2026-04-22,C006,Metro Health Network,Northeast,P006,ECG Lead Cable,Monitoring,VitalWorks,16,78.00,2,1,No,No
+1105,2026-04-22,C003,Riverside Health,South,P004,Infusion Pump Motor,Surgical,Precision Medical,7,310.00,4,5,No,No
+1081,2026-04-25,C005,Western Regional Hospital,West,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,15,62.00,2,4,No,No
+1128,2026-04-25,C002,Central Ohio Hospital,Midwest,P014,Ventilator Flow Valve,Respiratory,AirMed,6,285.00,3,2,No,No
+1108,2026-04-28,C005,Western Regional Hospital,West,P003,Ventilator Filter,Respiratory,AirMed,14,42.50,2,1,No,No
+1119,2026-04-28,C006,Metro Health Network,Northeast,P010,Defibrillator Battery,Emergency,RescueMed,7,265.00,2,2,No,No
+1131,2026-04-28,C007,Great Lakes Medical Center,Midwest,P006,ECG Lead Cable,Monitoring,VitalWorks,5,78.00,2,2,No,No
+1005,2026-04-29,C009,Pacific Care Center,West,P002,Patient Monitor Battery,Monitoring,VitalWorks,14,125.00,2,2,Yes,No
+1024,2026-04-30,C004,Northeast Surgical Center,Northeast,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,4,62.00,2,4,No,No
+1053,2026-04-30,C011,Heartland Regional Medical,Midwest,P008,Oxygen Sensor,Respiratory,AirMed,6,160.00,2,2,No,No
+1107,2026-05-01,C005,Western Regional Hospital,West,P010,Defibrillator Battery,Emergency,RescueMed,3,265.00,2,3,Yes,No
+1083,2026-05-02,C005,Western Regional Hospital,West,P001,X-Ray Detector,Imaging,MedTech Systems,3,850.00,3,4,No,No
+1074,2026-05-03,C009,Pacific Care Center,West,P008,Oxygen Sensor,Respiratory,AirMed,7,160.00,2,3,No,No
+1132,2026-05-03,C002,Central Ohio Hospital,Midwest,P002,Patient Monitor Battery,Monitoring,VitalWorks,4,125.00,2,1,Yes,Yes
+1076,2026-05-05,C005,Western Regional Hospital,West,P011,Bed Control Module,Patient Support,CareMotion,5,390.00,3,3,No,No
+1055,2026-05-06,C011,Heartland Regional Medical,Midwest,P004,Infusion Pump Motor,Surgical,Precision Medical,8,310.00,4,4,Yes,No
+1093,2026-05-06,C002,Central Ohio Hospital,Midwest,P001,X-Ray Detector,Imaging,MedTech Systems,5,850.00,3,4,No,No
+1073,2026-05-07,C008,Piedmont Community Hospital,South,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,4,62.00,2,2,No,No
+1044,2026-05-12,C002,Central Ohio Hospital,Midwest,P006,ECG Lead Cable,Monitoring,VitalWorks,20,78.00,2,2,Yes,No
+1019,2026-05-14,C008,Piedmont Community Hospital,South,P002,Patient Monitor Battery,Monitoring,VitalWorks,9,125.00,2,2,Yes,No
+1127,2026-05-15,C005,Western Regional Hospital,West,P007,Surgical Light Bulb,Surgical,Precision Medical,2,95.00,3,3,Yes,No
+1028,2026-05-17,C003,Riverside Health,South,P001,X-Ray Detector,Imaging,MedTech Systems,5,850.00,3,5,Yes,No
+1017,2026-05-18,C003,Riverside Health,South,P002,Patient Monitor Battery,Monitoring,VitalWorks,17,125.00,2,3,No,No
+1077,2026-05-18,C003,Riverside Health,South,P004,Infusion Pump Motor,Surgical,Precision Medical,1,310.00,4,4,No,No
+1102,2026-05-18,C007,Great Lakes Medical Center,Midwest,P015,MRI Table Motor,Imaging,ScanPro Healthcare,3,1450.00,6,7,No,No
+1021,2026-05-20,C003,Riverside Health,South,P011,Bed Control Module,Patient Support,CareMotion,8,390.00,3,3,No,No
+1003,2026-05-21,C007,Great Lakes Medical Center,Midwest,P003,Ventilator Filter,Respiratory,AirMed,20,42.50,2,1,No,No
+1059,2026-05-21,C010,Allegheny Health Clinic,Northeast,P014,Ventilator Flow Valve,Respiratory,AirMed,8,285.00,3,3,No,No
+1098,2026-05-21,C007,Great Lakes Medical Center,Midwest,P007,Surgical Light Bulb,Surgical,Precision Medical,12,95.00,3,3,No,No
+1054,2026-05-22,C008,Piedmont Community Hospital,South,P014,Ventilator Flow Valve,Respiratory,AirMed,8,285.00,3,3,No,No
+1123,2026-05-23,C004,Northeast Surgical Center,Northeast,P009,CT Cooling Fan,Imaging,ScanPro Healthcare,2,475.00,4,4,No,No
+1072,2026-05-24,C001,Lakeview Medical Center,Midwest,P008,Oxygen Sensor,Respiratory,AirMed,4,160.00,2,2,Yes,No
+1135,2026-05-24,C006,Metro Health Network,Northeast,P002,Patient Monitor Battery,Monitoring,VitalWorks,10,125.00,2,2,No,No
+1117,2026-05-25,C006,Metro Health Network,Northeast,P014,Ventilator Flow Valve,Respiratory,AirMed,4,285.00,3,3,No,No
+1133,2026-05-25,C009,Pacific Care Center,West,P005,Ultrasound Transducer,Imaging,MedTech Systems,1,1200.00,5,5,No,No
+1149,2026-05-26,C011,Heartland Regional Medical,Midwest,P009,CT Cooling Fan,Imaging,ScanPro Healthcare,5,475.00,4,5,No,No
+1029,2026-05-27,C004,Northeast Surgical Center,Northeast,P008,Oxygen Sensor,Respiratory,AirMed,1,160.00,2,2,No,No
+1139,2026-05-27,C010,Allegheny Health Clinic,Northeast,P002,Patient Monitor Battery,Monitoring,VitalWorks,3,125.00,2,5,Yes,No
+1144,2026-05-28,C007,Great Lakes Medical Center,Midwest,P011,Bed Control Module,Patient Support,CareMotion,7,390.00,3,4,No,No
+1058,2026-05-29,C007,Great Lakes Medical Center,Midwest,P007,Surgical Light Bulb,Surgical,Precision Medical,13,95.00,3,3,No,No
+1097,2026-06-01,C010,Allegheny Health Clinic,Northeast,P015,MRI Table Motor,Imaging,ScanPro Healthcare,2,1450.00,6,6,No,No
+1100,2026-06-02,C006,Metro Health Network,Northeast,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,16,62.00,2,4,Yes,No
+1141,2026-06-02,C008,Piedmont Community Hospital,South,P008,Oxygen Sensor,Respiratory,AirMed,5,160.00,2,3,Yes,No
+1134,2026-06-04,C005,Western Regional Hospital,West,P005,Ultrasound Transducer,Imaging,MedTech Systems,3,1200.00,5,5,No,No
+1110,2026-06-06,C012,Sunrise Medical Pavilion,South,P007,Surgical Light Bulb,Surgical,Precision Medical,11,95.00,3,3,No,No
+1140,2026-06-06,C008,Piedmont Community Hospital,South,P006,ECG Lead Cable,Monitoring,VitalWorks,8,78.00,2,2,No,No
+1069,2026-06-08,C009,Pacific Care Center,West,P012,Suction Pump Assembly,Surgical,Precision Medical,4,540.00,4,5,No,No
+1120,2026-06-08,C007,Great Lakes Medical Center,Midwest,P014,Ventilator Flow Valve,Respiratory,AirMed,5,285.00,3,3,Yes,No
+1136,2026-06-08,C011,Heartland Regional Medical,Midwest,P010,Defibrillator Battery,Emergency,RescueMed,1,265.00,2,3,No,No
+1039,2026-06-09,C012,Sunrise Medical Pavilion,South,P002,Patient Monitor Battery,Monitoring,VitalWorks,9,125.00,2,3,No,No
+1106,2026-06-09,C011,Heartland Regional Medical,Midwest,P004,Infusion Pump Motor,Surgical,Precision Medical,3,310.00,4,4,No,No
+1111,2026-06-09,C005,Western Regional Hospital,West,P010,Defibrillator Battery,Emergency,RescueMed,3,265.00,2,1,No,No
+1145,2026-06-09,C008,Piedmont Community Hospital,South,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,13,62.00,2,2,Yes,No
+1092,2026-06-10,C008,Piedmont Community Hospital,South,P009,CT Cooling Fan,Imaging,ScanPro Healthcare,1,475.00,4,6,No,No
+1084,2026-06-11,C010,Allegheny Health Clinic,Northeast,P010,Defibrillator Battery,Emergency,RescueMed,4,265.00,2,3,No,No
+1020,2026-06-12,C001,Lakeview Medical Center,Midwest,P003,Ventilator Filter,Respiratory,AirMed,3,42.50,2,1,No,No
+1103,2026-06-12,C011,Heartland Regional Medical,Midwest,P014,Ventilator Flow Valve,Respiratory,AirMed,4,285.00,3,3,No,No
+1089,2026-06-13,C008,Piedmont Community Hospital,South,P015,MRI Table Motor,Imaging,ScanPro Healthcare,2,1450.00,6,6,No,No
+1001,2026-06-14,C002,Central Ohio Hospital,Midwest,P001,X-Ray Detector,Imaging,MedTech Systems,3,850.00,3,3,No,No
+1033,2026-06-18,C009,Pacific Care Center,West,P001,X-Ray Detector,Imaging,MedTech Systems,5,850.00,3,2,No,No
+1130,2026-06-18,C011,Heartland Regional Medical,Midwest,P013,Pulse Oximeter Sensor,Monitoring,VitalWorks,19,62.00,2,2,No,No
+1148,2026-06-18,C002,Central Ohio Hospital,Midwest,P003,Ventilator Filter,Respiratory,AirMed,17,42.50,2,3,No,No
+1061,2026-06-20,C001,Lakeview Medical Center,Midwest,P002,Patient Monitor Battery,Monitoring,VitalWorks,15,125.00,2,4,Yes,No
+1122,2026-06-20,C004,Northeast Surgical Center,Northeast,P010,Defibrillator Battery,Emergency,RescueMed,1,265.00,2,3,Yes,No
+1045,2026-06-22,C004,Northeast Surgical Center,Northeast,P006,ECG Lead Cable,Monitoring,VitalWorks,4,78.00,2,2,No,No
+1143,2026-06-22,C006,Metro Health Network,Northeast,P002,Patient Monitor Battery,Monitoring,VitalWorks,3,125.00,2,2,No,No
+1050,2026-06-23,C005,Western Regional Hospital,West,P003,Ventilator Filter,Respiratory,AirMed,8,42.50,2,1,Yes,No
+1115,2026-06-23,C007,Great Lakes Medical Center,Midwest,P015,MRI Table Motor,Imaging,ScanPro Healthcare,3,1450.00,6,7,No,No
+1116,2026-06-23,C012,Sunrise Medical Pavilion,South,P010,Defibrillator Battery,Emergency,RescueMed,7,265.00,2,2,No,Yes
+1121,2026-06-26,C006,Metro Health Network,Northeast,P008,Oxygen Sensor,Respiratory,AirMed,6,160.00,2,3,Yes,No
+1109,2026-06-30,C005,Western Regional Hospital,West,P001,X-Ray Detector,Imaging,MedTech Systems,4,850.00,3,4,No,No
