@@ -36,9 +36,10 @@ The source dataset is located at:
 
 It contains 150 synthetic order records with fields such as Order ID, order date, customer, region, product, part category, manufacturer, quantity, unit price, expected shipping days, actual shipping days, rush-order status, and return status.
 
-Additional calculated fields used during analysis include:
+Calculated fields used during analysis include:
 
 - `Revenue`
+- `Late` in Python
 - `ShippingStatus`
 
 Revenue is calculated as:
@@ -55,7 +56,7 @@ The SQL portion uses a staging-style workflow:
 
 `CSV → dbo.orders_raw → dbo.Orders`
 
-The raw CSV data was first imported into a staging table and then loaded into a controlled table with explicit data types and constraints.
+The raw CSV data is imported into `dbo.orders_raw` as a staging table, for example using SSMS, and then loaded into `dbo.Orders` with explicit data types. The checked-in load script assumes that the staging table has already been created and populated.
 
 SQL work includes:
 
@@ -131,6 +132,7 @@ import pandas as pd
 
 df = pd.read_csv("data/orders_raw.csv")
 df["Revenue"] = df["Quantity"] * df["UnitPrice"]
+df["Late"] = df["ShippingDays"] > df["ExpectedShippingDays"]
 ```
 
 The Python analysis demonstrates:
@@ -139,8 +141,7 @@ The Python analysis demonstrates:
 - Inspecting rows and columns
 - Creating calculated fields
 - Grouping and aggregating data
-- Validating data
-- Preparing data for additional analysis
+- Converting order dates to datetime values
 
 ## R Analysis
 
@@ -224,6 +225,7 @@ medical-parts-data-analysis/
 │   ├── 03-load-orders.sql
 │   ├── 04-data-validation.sql
 │   ├── 05-analysis.sql
+│   ├── 06-analysis-CTE-WindowFunction.sql
 │   └── 07-normalized-schema.sql
 ├── quicksight/
 │   └── medical-parts-operations-dashboard.pdf
